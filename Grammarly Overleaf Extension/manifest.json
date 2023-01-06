@@ -8,7 +8,7 @@
     "css": ["styles.css"],
     "js": ["content.js"],
     "html":["index.html"],
-    "matches": ["https://www.overleaf.com/project/*", "https://www.overleaf.com/", "https://www.google.com/"]
+    "matches": ["https://www.overleaf.com/project/*", "https://www.overleaf.com/*", "https://www.google.com/"]
   }],
   "permissions": [
     "contextMenus",
